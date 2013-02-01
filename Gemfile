@@ -42,7 +42,7 @@ gem 'simplecov', :require => false, :group => :test
 # gem 'debugger'
 
 group :development, :test do
-	gem 'sqllite3-ruby'
+	gem 'sqlite3-ruby'
 end
 
 group :production do
